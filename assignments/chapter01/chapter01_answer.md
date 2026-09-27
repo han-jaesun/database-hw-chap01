@@ -74,18 +74,8 @@ PostgreSQL은 내 컴퓨터(localhost:5432)에서 따로 실행되는 데이터�
 ```text
 assignments/chapter01/images/step01_environment.png
 ```
-
-이미지를 저장했다면 아래 링크의 파일명을 실제 파일명에 맞게 수정합니다.
-
-```markdown
 ![PostgreSQL 실행 환경 확인](./images/step01_environment.png)
-```
 
-**이미지 삽입 위치:**
-
-<!-- 아래 줄의 주석을 지우고 실제 이미지 Markdown을 넣어도 됩니다. -->
-
-`여기에 STEP 1 증거 화면을 삽입하세요.`
 
 ---
 
@@ -362,13 +352,11 @@ AI는 중복 가능성을 잘 짚어 주었지만 최종 판단은 업무 규칙
 
 ## 4-6. 증거 화면
 
-권장 경로:
-
 ```text
-![중복 주문 데이터 합계 결과](./images/step04_duplicate_result.png)
+권장 경로: assignments/chapter01/images/step04_duplicate_result.png
 ```
 
-`여기에 STEP 4 핵심 증거 화면을 삽입하세요.`
+![중복 주문 데이터 합계 결과](./images/step04_duplicate_result.png)
 
 ---
 
